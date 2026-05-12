@@ -1,0 +1,11 @@
+stop_id,quadrant,row,col,latitude,longitude,science_score,slope_deg,roughness_m,near_crater,dist_from_landing_km,justification
+SE_01,SE,333,353,-85.289063,26.867188,0.2698,9.45,41.0,False,0.691,"Gentle slope (9.5°) — safe for rover instruments | Distance from landing: 0.69 km | Science score: 0.2698 (slope=0.22, roughness=0.10, crater_edge=0.00)"
+SE_02,SE,333,358,-85.289063,26.886719,0.2719,9.32,40.0,False,1.237,"Gentle slope (9.3°) — safe for rover instruments | Distance from landing: 1.24 km | Science score: 0.2719 (slope=0.22, roughness=0.10, crater_edge=0.00)"
+SE_03,SE,338,360,-85.308594,26.894531,0.2885,5.37,23.5,False,1.708,"Gentle slope (5.4°) — safe for rover instruments | Distance from landing: 1.71 km | Science score: 0.2885 (slope=0.13, roughness=0.06, crater_edge=0.00)"
+SE_04,SE,343,359,-85.328125,26.890625,0.2777,6.54,28.5,False,2.017,"Gentle slope (6.5°) — safe for rover instruments | Distance from landing: 2.02 km | Science score: 0.2777 (slope=0.15, roughness=0.07, crater_edge=0.00)"
+SE_05,SE,343,354,-85.328125,26.871094,0.2878,5.08,25.0,False,1.696,"Gentle slope (5.1°) — safe for rover instruments | Distance from landing: 1.70 km | Science score: 0.2878 (slope=0.12, roughness=0.06, crater_edge=0.00)"
+SE_06,SE,343,349,-85.328125,26.851563,0.2898,4.77,23.5,False,1.544,"Gentle slope (4.8°) — safe for rover instruments | Distance from landing: 1.54 km | Science score: 0.2898 (slope=0.11, roughness=0.06, crater_edge=0.00)"
+SE_07,SE,338,355,-85.308594,26.875,0.2932,4.5,21.0,False,1.259,"Gentle slope (4.5°) — safe for rover instruments | Distance from landing: 1.26 km | Science score: 0.2932 (slope=0.11, roughness=0.05, crater_edge=0.00)"
+SE_08,SE,338,350,-85.308594,26.855469,0.2876,5.1,22.0,False,0.977,"Gentle slope (5.1°) — safe for rover instruments | Distance from landing: 0.98 km | Science score: 0.2876 (slope=0.12, roughness=0.06, crater_edge=0.00)"
+SE_09,SE,332,365,-85.285156,26.914063,0.2775,8.69,41.0,False,2.028,"Gentle slope (8.7°) — safe for rover instruments | Distance from landing: 2.03 km | Science score: 0.2775 (slope=0.20, roughness=0.10, crater_edge=0.00)"
+SE_10,SE,337,365,-85.304688,26.914063,0.2781,7.34,31.5,False,2.178,"Gentle slope (7.3°) — safe for rover instruments | Distance from landing: 2.18 km | Science score: 0.2781 (slope=0.17, roughness=0.08, crater_edge=0.00)"
